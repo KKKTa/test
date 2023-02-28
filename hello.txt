@@ -1,2 +1,4 @@
 Hello!
 Oh, hello!
+How are you ?
+I'm good, and you ?
